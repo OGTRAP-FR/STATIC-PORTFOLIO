@@ -1,0 +1,16 @@
+/* Reset default Vite styles */
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: block;
+  /* Remove flex from body */
+}
+
+#root {
+  width: 100%;
+}
