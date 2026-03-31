@@ -1,16 +1,16 @@
-# React + Vite
+# REACT + VITE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+THIS TEMPLATE PROVIDES A MINIMAL SETUP TO GET REACT WORKING IN VITE WITH HMR AND SOME ESLINT RULES.
 
-Currently, two official plugins are available:
+CURRENTLY, TWO OFFICIAL PLUGINS ARE AVAILABLE:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@VITEJS/PLUGIN-REACT](HTTPS://GITHUB.COM/VITEJS/VITE-PLUGIN-REACT/BLOB/MAIN/PACKAGES/PLUGIN-REACT) USES [BABEL](HTTPS://BABELJS.IO/) (OR [OXC](HTTPS://OXC.RS) WHEN USED IN [ROLLDOWN-VITE](HTTPS://VITE.DEV/GUIDE/ROLLDOWN)) FOR FAST REFRESH
+- [@VITEJS/PLUGIN-REACT-SWC](HTTPS://GITHUB.COM/VITEJS/VITE-PLUGIN-REACT/BLOB/MAIN/PACKAGES/PLUGIN-REACT-SWC) USES [SWC](HTTPS://SWC.RS/) FOR FAST REFRESH
 
-## React Compiler
+## REACT COMPILER
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+THE REACT COMPILER IS NOT ENABLED ON THIS TEMPLATE BECAUSE OF ITS IMPACT ON DEV & BUILD PERFORMANCES. TO ADD IT, SEE [THIS DOCUMENTATION](HTTPS://REACT.DEV/LEARN/REACT-COMPILER/INSTALLATION).
 
-## Expanding the ESLint configuration
+## EXPANDING THE ESLINT CONFIGURATION
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+IF YOU ARE DEVELOPING A PRODUCTION APPLICATION, WE RECOMMEND USING TYPESCRIPT WITH TYPE-AWARE LINT RULES ENABLED. CHECK OUT THE [TS TEMPLATE](HTTPS://GITHUB.COM/VITEJS/VITE/TREE/MAIN/PACKAGES/CREATE-VITE/TEMPLATE-REACT-TS) FOR INFORMATION ON HOW TO INTEGRATE TYPESCRIPT AND [`TYPESCRIPT-ESLINT`](HTTPS://TYPESCRIPT-ESLINT.IO) IN YOUR PROJECT.
